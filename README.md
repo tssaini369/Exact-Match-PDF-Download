@@ -66,7 +66,7 @@ Yes, no additional configuration is needed. The plugin handles security automati
 == Changelog ==
 
 = 1.1 =
-* Updated license information and removed trial details.
+* Updated license information.
 * Added licensing terms reference to the `license.txt` file.
 
 == Upgrade Notice ==
@@ -82,8 +82,8 @@ Initial release. No upgrades available yet.
 - **Support**: For issues, contact the author via the WordPress plugin repository or email.
 
 == Usage ==
-- The plugin requires a valid license or a 3-day trial to function.
-- Activate a license or start a trial via the Freemius opt-in prompt during plugin activation.
+- The plugin requires a valid license to function.
+- Activate a license via the Freemius opt-in prompt during plugin activation.
 
 == Licensing ==
 This plugin is distributed under a proprietary commercial license. Please refer to the `license.txt` file included in the plugin directory for full terms and conditions.
