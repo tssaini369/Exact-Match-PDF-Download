@@ -1,0 +1,30 @@
+LICENSE AGREEMENT FOR EXACT MATCH PDF DOWNLOAD
+
+This License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and TeeJay ("Author") for the use of the Exact Match PDF Download WordPress plugin ("Software"), which includes computer software and associated media and printed materials.
+
+1. GRANT OF LICENSE
+   - The Author grants you a non-exclusive, non-transferable license to use the Software on a single WordPress installation for which you have purchased a valid license.
+   - You may use the Software during the 3-day trial period or upon activation of a paid license purchased through Freemius.
+
+2. RESTRICTIONS
+   - You may not redistribute, sell, sublicense, or otherwise transfer the Software or its license key to any third party.
+   - You may not modify, reverse engineer, decompile, or disassemble the Software.
+   - The Software is licensed, not sold, and all intellectual property rights remain with the Author.
+
+3. TERMINATION
+   - This Agreement is effective until terminated. You may terminate it at any time by destroying the Software and all copies.
+   - The Author may terminate this Agreement if you fail to comply with its terms, requiring you to destroy all copies of the Software.
+
+4. NO WARRANTY
+   - The Software is provided "as is" without warranty of any kind, either express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+5. SUPPORT
+   - Support is provided at the Author’s discretion for the duration of your active license.
+   - Contact the Author via the WordPress plugin repository or email for assistance.
+
+6. GOVERNING LAW
+   - This Agreement is governed by the laws of [India/MP], and any disputes will be resolved in [Indore], [India].
+
+For the latest version of this license or additional terms, contact the Author at [Your Email] or visit [Your Website].
+
+Copyright © 2025 TeeJay. All rights reserved.
